@@ -22,8 +22,8 @@ Execute the C Program for the desired output.
 
 ## PROGRAM :
 
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : ARAVIND R
+### REG NO : 212223230019
 
 ## C program that receives a message from message queue and display them :
 
